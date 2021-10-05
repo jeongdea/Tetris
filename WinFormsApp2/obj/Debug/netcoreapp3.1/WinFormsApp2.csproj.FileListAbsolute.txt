@@ -1,0 +1,16 @@
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+C:\Users\jeong\OneDrive\바탕 화면\jjjjjjjjj\WinFormsApp2\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache
